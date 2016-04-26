@@ -1,11 +1,11 @@
 # Introduction to ASP.NET MVC 5
 
-This is a small workshop to help you get started with MVC 5, in this workshop we'll see the following topics:
+This is a small guide to help you get started with MVC 5, in this guide we'll see the following topics:
 
-* .NET overview
-* MVC the pattern
-* asp.net MCV structure
-* MVC scaffolding in visual studio
+* Creating our EF Model
+* Creating the controllers with the scaffolding 
+* Creating the views
+* Add new functionality
 
 # Requirements
 
