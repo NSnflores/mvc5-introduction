@@ -11,6 +11,6 @@ You can google how to get this done and if you need assistance we are here to he
 
 
 # Do you want to know more?
-[mvc tutorial](http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/migrations-and-deployment-with-the-entity-framework-in-an-asp-net-mvc-application)
+[mvc tutorial](http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application)
 
 [Back](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/README.md)
