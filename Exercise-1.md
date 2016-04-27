@@ -5,12 +5,15 @@ This class will be our model, EF will create a table, based on this model.
 **Add a new class, Cerveza.cs**
 
 1. On the Models folder, rigth click *Add > Class...*
+![alt text][add]
 
-Image here
+[add]:https://github.com/yeseniamolinab/mvc5-introduction/blob/master/add-class.png
 
 2. Add the following properties to the newly created Cerveza class
 
-Image
+![alt text][logo]
+
+[logo]:https://github.com/yeseniamolinab/mvc5-introduction/blob/master/cerveza-class.png
 
 3. Save de changes (pess Ctrl+S)
 
