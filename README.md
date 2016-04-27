@@ -4,16 +4,12 @@ This is a small guide to help you get started with MVC 5, in this guide we'll se
 
 * Creating our EF Model
 * Creating the controllers with the scaffolding 
-* Add new functionality
+* Modify EF model and run migrations
 
 # Requirements
 
 * [Visual studio 2015](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx "vs community")
 * [SQL server Express 2012] (https://www.microsoft.com/en-us/download/details.aspx?id=29062 "sql server 2012") <sup id="sqlnote">[1](#f1)</sup>
-
-# Getting started
-
-
 
 # What is...?
 * [.Net](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/net.md "vs community")
@@ -21,6 +17,15 @@ This is a small guide to help you get started with MVC 5, in this guide we'll se
 * [MVC](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/mvc.md "vs community")
 * [C#](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/csharp.md "vs community")
 * [Entity Framework](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/entityframework.md "vs community")
+
+# Getting started
+* Fork this repository: If you don't know how,click [here](https://example1.com)
+* Adding the Model: [Exercise 1] (https://example1.com)
+* Adding a controller and views with scaffolding: [Exercise 2](https://example1.com)
+* Adding more properties to our model : [Exercise 3](https://example1.com)
+
+
+
 
 
 # Notes
