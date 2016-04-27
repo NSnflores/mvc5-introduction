@@ -14,7 +14,8 @@ This is a small guide to help you get started with MVC 5, in this guide we'll se
 # What is...?
 * [.Net](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/net.md "vs community")
 * [ASP.NET](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/aspnet.md "vs community")
-* [MVC](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/mvc.md "vs community")
+* [MVC - The pattern](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/mvc.md "vs community")
+* [MVC - ASP.NET structure](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/mvc-asp.md "mvc - asp structure")
 * [C#](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/csharp.md "vs community")
 * [Entity Framework](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/entityframework.md "vs community")
 
