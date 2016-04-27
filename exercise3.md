@@ -8,7 +8,7 @@ After update your model, you'll need to do the necesary modifications in your co
 to allow display, edit and delete the image reference.
 
 You can google how to get this done and if you need assistance we are here to help you.
-http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/migrations-and-deployment-with-the-entity-f[suggested reference](ramework-in-an-asp-net-mvc-application)
+[suggested reference](http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/migrations-and-deployment-with-the-entity-framework-in-an-asp-net-mvc-application)
 
 
 [Back](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/README.md)
