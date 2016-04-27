@@ -15,7 +15,7 @@ This class will be our model, EF will create a table, based on this model.
 
 [logo]:https://github.com/yeseniamolinab/mvc5-introduction/blob/master/cerveza-class.png
 
-3. Save de changes (pess Ctrl+S)
+3. Save de changes (press Ctrl+S)
 
 
 **Adding data annotations**
@@ -33,4 +33,4 @@ This class will be our model, EF will create a table, based on this model.
   public string Calificacion { get; set; }
 
 ```
-3. Save de changes (pess Ctrl+S)
+3. Save de changes (press Ctrl+S)
