@@ -10,6 +10,11 @@
 * F#. 
 
 .NET languages compile to CIL (Common Intermediate Language) 
-which means they all start "talking" the samelanguage and can therefore interoperate
+which means they all start "talking" the same language and can therefore interoperate
 
+
+# Do you want to know more?
+[Visit this page] (https://msdn.microsoft.com/en-us/library/zw4w595w(v=vs.110).aspx)
+
+[Back](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/README.md)
 
