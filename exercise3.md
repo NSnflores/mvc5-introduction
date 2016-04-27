@@ -1,4 +1,4 @@
-# Exercise 3
+# Adding more properties to our model
 
 Now you know the basics, let's add something else..
 
