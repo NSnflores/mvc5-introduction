@@ -22,7 +22,7 @@ This is a small guide to help you get started with MVC 5, in this guide we'll se
 # Getting started
 * Fork this repository
 * Adding the Model: [Exercise 1] (https://github.com/yeseniamolinab/mvc5-introduction/blob/master/Exercise-1.md)
-* Adding a controller and views with scaffolding: [Exercise 2](https://example1.com)
+* Adding a controller and views with scaffolding: [Exercise 2](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/Exercise-2.md)
 * Adding more properties to our model : [Exercise 3](https://example1.com)
 
 
