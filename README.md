@@ -3,7 +3,7 @@
 This is a small guide to help you get started with MVC 5, in this guide we'll see the following topics:
 
 * Creating our EF Model
-* Creating the controllers with the scaffolding 
+* Creating the controllers with scaffolding 
 * Modify EF model and run migrations
 
 # Requirements
