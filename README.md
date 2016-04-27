@@ -12,12 +12,12 @@ This is a small guide to help you get started with MVC 5, in this guide we'll se
 * [SQL server Express 2012] (https://www.microsoft.com/en-us/download/details.aspx?id=29062 "sql server 2012") <sup id="sqlnote">[1](#f1)</sup>
 
 # What is...?
-* [.Net](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/net.md "vs community")
-* [ASP.NET](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/aspnet.md "vs community")
-* [MVC - The pattern](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/mvc.md "vs community")
-* [MVC - ASP.NET structure](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/mvc-asp.md "mvc - asp structure")
-* [C#](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/csharp.md "vs community")
-* [Entity Framework](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/entityframework.md "vs community")
+* [.Net](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/net.md)
+* [ASP.NET](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/aspnet.md)
+* [MVC - The pattern](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/mvc.md)
+* [MVC - ASP.NET structure](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/mvc-asp.md)
+* [C#](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/csharp.md)
+* [Entity Framework](https://github.com/yeseniamolinab/mvc5-introduction/blob/master/entityframework.md)
 
 # Getting started
 * Fork this repository
